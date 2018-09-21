@@ -1,0 +1,33 @@
+_repo: Kuolema_53556
+_version: 0.0.1
+alternative_title: La mort. Finnish
+contributor:
+  translator:
+    agent_name: Palola, Eino
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '42797'
+    url: http://www.gutenberg.org/2009/agents/42797
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2016-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53556'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BD'
+- !lcsh 'Death'
+- GITenberg
+title: Kuolema
+url: http://www.gutenberg.org/ebooks/53556
